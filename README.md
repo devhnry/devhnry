@@ -53,19 +53,6 @@ I'm a computer science student with a passion for Web Development. My goal is to
 </div>
 
 <br>
-<h2 align="center">📊 Github Stats</h2>
-
-<div align = "center">
-
-![Stats Overview] (https://github-readme-stats.vercel.app/api/?username=devhnry&count_private=true&theme=tokyonight&showicons=true)
-
-![Stats Overview](https://raw.githubusercontent.com/MelvinAguilar/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Most Used Languages](https://raw.githubusercontent.com/MelvinAguilar/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-</div>
-<br>
-
-
 
 <div align = "center">
 
@@ -86,7 +73,6 @@ I'm a computer science student with a passion for Web Development. My goal is to
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 
-<details open>
 <summary><b>🗄️ Database</b></summary>
 <br>
 
@@ -94,75 +80,23 @@ I'm a computer science student with a passion for Web Development. My goal is to
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql)&nbsp;
 ![Oracle 12c](https://img.shields.io/badge/-Oracle%2012c-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
-</details>
 
-<details open>
 <summary><b>💻 Software and Tools</b></summary>
 <br>
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
 ![Archcraft](https://img.shields.io/badge/Archcraft-%23404d59?style=for-the-badge&logo=archlinux&logoColor=%#1793D1)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-<br>
 ![Visual Studio Code](https://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
-</details>
 
 </div>
 
 
 <br>
-
-<h2 align="center">👨‍💻 More About Me on GitHub</h2>
-
-
-<details>
-<summary><b>🔥 Streak Stats</b></summary>
-<br>
-<p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=MelvinAguilar&theme=radical&hide_border=true" alt="MelvinAguilar" width="390"/>
-</p>
-</details>
-
-<details>
-<summary><b>🏆 Github Trophies</b></summary>
-<br>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MelvinAguilar&theme=discord" alt="MelvinAguilar" />
-</p>
-</details>
-
-<details>
-<summary><b>📚 Projects</b></summary>
-<br>
-<p align="left">
-<!-- BLOG-POST-LIST:START -->
-<a href="https://github.com/MelvinAguilar/intro-section-with-dropdown-navigation"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=MelvinAguilar&repo=intro-section-with-dropdown-navigation&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Intro section with dropdown navigation solution"></a>
-<a href="https://github.com/MelvinAguilar/nft-preview-card-component"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=MelvinAguilar&repo=nft-preview-card-component&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="nft-preview-card-component"></a>
-<a href="https://github.com/MelvinAguilar/bookmark-landing-page"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=MelvinAguilar&repo=bookmark-landing-page&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="bookmark-landing-page"></a>
-<a href="https://github.com/MelvinAguilar/ping-single-column-coming-soon-page"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=MelvinAguilar&repo=ping-single-column-coming-soon-page&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="ping-single-column-coming-soon-page"></a>
-<a href="https://github.com/MelvinAguilar/TravelGo"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=MelvinAguilar&repo=TravelGo&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="TravelGo"></a>
-<a href="https://github.com/MelvinAguilar/portafolio-desarrollo-web"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=MelvinAguilar&repo=portafolio-desarrollo-web&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="portafolio-desarrollo-web"></a>
-  
-  
-
-
-<!-- BLOG-POST-LIST:END -->
-</p>
-</details>
-
-<details>
-<summary><b>⚡ Github Public Stats</b></summary>
-<br>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MelvinAguilar&show_icons=true&theme=radical&count_private=true" alt="MelvinAguilar" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelvinAguilar&layout=compact&theme=radical" alt="MelvinAguilar" height="165">
-</p>
-<img src="https://visitor-badge.glitch.me/badge?page_id=MelvinAguilar.MelvinAguilar">
-</details>
-  
   
 <h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
