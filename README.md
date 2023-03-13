@@ -1,5 +1,5 @@
 <!-- Banner 20232A -->
-![Banner](Henry.jpg)
+![Banner](hnry.jpg)
 
 <p align="center">
 I'm a computer science student with a passion for Web Development. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems. 
