@@ -31,7 +31,7 @@ I'm a computer science student with a passion for Web Development. My goal is to
 <br>
 <br>
 
-## Goals
+## 🏆 Goals
 
 - 📖 Improve my skills in **JavaScript** and **Styling(CSS & SASS)**.
 - 📖 Learn more about **React** and **Node.js**.
