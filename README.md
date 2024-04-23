@@ -97,5 +97,13 @@ I'm a computer science student with a passion for Web Development. My goal is to
 
 
 <br>
+
+<h4 align="left">Git Stats</h4>
+
+<p>
+    <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=devhnry&show_icons=true&locale=en&layout=compact" alt="devhnry" />
+</p>
+
+<br>
   
 <h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
