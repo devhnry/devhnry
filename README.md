@@ -1,30 +1,14 @@
 <!-- Banner 20242A -->
 ![Banner](hnry.jpg)
 
-<p align="center">
-I am a dedicated software engineer. My tech stack spans both frontend and backend development, proficient in JavaScript, Java, and little TypeScript. I use React for creating dynamic and responsive user interfaces, and Spring Boot for building powerful and scalable backend applications.
-</p>
-
 ##
 
 <br>
-
-- 🔭 I’m currently studying on **becoming a software engineer**.
-
-- 🌱 I’m currently learning **SpringBoot** and **React Native**.
+- 🌱 Currently learning **SpringBoot** and **Angular**.
 
 - 📫 How to reach me: **devwhenry@gmail.com**.
 
 - 👯 I’m looking to collaborate on **Developing new open-source projects**.
-
-
-<br>
-
-## 🏆 Goals
-
-- 📖 Improve my skills in **SpringBoot** and **Styling(CSS & SASS)**.
-- 📖 Learn more about **React Native** and **Spring FrameWork**.
-- 📖 Create my own Portfolio website.
 
 <br>
 
