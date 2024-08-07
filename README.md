@@ -49,15 +49,6 @@
 
 </div>
 
-
-<br>
-
-<h4 align="center">Git Stats</h4>
-
-<div align="center">
-    <img align="center" backgroundColor="black" marginInline="auto" width="400px" height="250px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=devhnry&show_icons=true&locale=en&layout=compact" alt="devhnry" />
-</div>
-
 <br>
   
 <h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
