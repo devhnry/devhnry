@@ -1,5 +1,5 @@
 ## Henry Taiwo 👨‍💻 ✊  
-**Full Stack Developer | iOS Dev in Progress | Building clean systems & beautiful UIs**
+**Full Stack Developer | Mobile Dev in Progress | Building clean systems & beautiful UIs**
 
 Hi there 👋 I'm a software engineer focused on building robust backend systems and elegant frontend experiences. Currently expanding into mobile development (SwiftUI). I love async collaboration, developer tools, and shipping meaningful projects.
 
